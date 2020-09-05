@@ -1,0 +1,36 @@
+
+#main{
+    background: rgba(74, 136, 177, 0.418);
+    border-radius: 5px;
+}
+main, figure, section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1{
+    font-size: 4em;
+    margin-bottom: 0;
+}
+figcaption{
+    padding: 10px 20px;
+    font-size: 1.5em;
+}
+p{
+    font-size: 1.7em;
+}
+h3{
+    font-size: 2em;
+}
+#image{
+    max-width: 100%;
+    height: auto;
+}
+#tribute-info{
+    background: rgba(53, 159, 173, 0.192);
+    border-radius: 10px;
+    padding: 10px 5px;
+}
+li{
+    padding: 15px 10px;
+}
